@@ -1,0 +1,41 @@
+body {;
+    text-align: center;
+}
+#barra-input{
+    font-family: Sans-serif;
+    font-size: x-large;
+    border-radius: 8px;
+    border-color: lightgrey;
+    border-style: double;
+}
+#botao{
+    background-color: antiquewhite;
+    font-size: 25px;
+    font-family: Sans-serif;
+    color:  rgb(113, 133, 190);
+    border-radius: 8px;
+    border-color:  lightgrey;
+    border-style: double;
+}
+#botao:hover{
+    background-color: rgb(113, 133, 190);
+    color: white;
+}
+li{
+    font-size: 25px;
+    font-family: Sans-serif;
+    color: black;
+}
+a{
+    text-decoration-line: none;
+    border-style: double;
+    border-radius: 8px;
+    border-color: lightgrey;
+    background-color: antiquewhite;
+    color: red;
+    border-left-width: 3px;
+}
+a:hover{
+    background-color:red;
+    color:antiquewhite;
+}
